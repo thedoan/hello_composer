@@ -1,5 +1,5 @@
 {
-  "name" : "thedoan/helloworld",
+  "name" : "thedoan/hellocomposer",
   "version" : "1.0.0",
   "description" : "This my first composer package",
   "type" : "library",
